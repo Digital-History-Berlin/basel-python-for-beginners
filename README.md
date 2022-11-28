@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Digital-History-Berlin/basel-python-for-beginners/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Digital-History-Berlin/basel-python-for-beginners/main)
 
 # Python for Beginners: The first step to becoming a Programming Historian
 
