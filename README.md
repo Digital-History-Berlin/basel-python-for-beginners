@@ -1,5 +1,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Digital-History-Berlin/basel-python-for-beginners/main)
 
+
+# Hier geht es zum Jupyter Book: Python für Historiker:innen
+
+https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html
+
 # Python for Beginners: The first step to becoming a Programming Historian
 
 In diesem Repositorium finden Sie die Jupyter Notebooks, die wir im Workshop 'Python for Beginners: The first step to becoming a Programming Historian' nutzen.
